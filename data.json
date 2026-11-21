@@ -1,5 +1,5 @@
 {
- "STAND": "2026-11-21T18:34:00+01:00",
+ "STAND": "2026-11-21T19:33:00+01:00",
  "SPIELE": [
   {
    "id": "b1",
@@ -402,19 +402,6 @@
     "u": 22.9,
     "a": 23.3
    }
-  },
-  {
-   "id": "n13",
-   "sport": "hockey",
-   "liga": "NHL",
-   "zeit": "2026-11-14T18:00:00Z",
-   "h": "Carolina Hurricanes",
-   "a": "Seattle Kraken",
-   "p": {
-    "h": 79.4,
-    "a": 20.6
-   },
-   "res": "h"
   },
   {
    "id": "n14",
@@ -1818,6 +1805,19 @@
     "a": 38.2
    },
    "res": "a"
+  },
+  {
+   "id": "n13",
+   "sport": "hockey",
+   "liga": "NHL",
+   "zeit": "2026-11-14T18:00:00Z",
+   "h": "Carolina Hurricanes",
+   "a": "Seattle Kraken",
+   "p": {
+    "h": 79.4,
+    "a": 20.6
+   },
+   "res": "h"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "STAND": "2026-11-21T20:40:00+01:00",
+ "STAND": "2026-11-21T21:32:00+01:00",
  "SPIELE": [
   {
    "id": "b1",
@@ -404,19 +404,6 @@
     "u": 22.9,
     "a": 23.3
    }
-  },
-  {
-   "id": "n14",
-   "sport": "hockey",
-   "liga": "NHL",
-   "zeit": "2026-11-14T20:30:00Z",
-   "h": "Chicago Blackhawks",
-   "a": "Winnipeg Jets",
-   "p": {
-    "h": 40.7,
-    "a": 59.3
-   },
-   "res": "a"
   },
   {
    "id": "n15",
@@ -1834,6 +1821,19 @@
     "a": 20.6
    },
    "res": "h"
+  },
+  {
+   "id": "n14",
+   "sport": "hockey",
+   "liga": "NHL",
+   "zeit": "2026-11-14T20:30:00Z",
+   "h": "Chicago Blackhawks",
+   "a": "Winnipeg Jets",
+   "p": {
+    "h": 40.7,
+    "a": 59.3
+   },
+   "res": "a"
   }
  ]
 }

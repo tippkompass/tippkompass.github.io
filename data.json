@@ -1,5 +1,5 @@
 {
- "STAND": "2026-11-21T22:30:00+01:00",
+ "STAND": "2026-11-22T01:10:00+01:00",
  "SPIELE": [
   {
    "id": "b1",
@@ -404,110 +404,6 @@
     "u": 22.9,
     "a": 23.3
    }
-  },
-  {
-   "id": "n15",
-   "sport": "hockey",
-   "liga": "NHL",
-   "zeit": "2026-11-15T00:00:00Z",
-   "h": "Montreal Canadiens",
-   "a": "Colorado Avalanche",
-   "p": {
-    "h": 52.9,
-    "a": 47.1
-   },
-   "res": "a"
-  },
-  {
-   "id": "n16",
-   "sport": "hockey",
-   "liga": "NHL",
-   "zeit": "2026-11-15T00:00:00Z",
-   "h": "Toronto Maple Leafs",
-   "a": "Edmonton Oilers",
-   "p": {
-    "h": 42.3,
-    "a": 57.7
-   },
-   "res": "a"
-  },
-  {
-   "id": "n17",
-   "sport": "hockey",
-   "liga": "NHL",
-   "zeit": "2026-11-15T00:00:00Z",
-   "h": "Tampa Bay Lightning",
-   "a": "Detroit Red Wings",
-   "p": {
-    "h": 65.9,
-    "a": 34.1
-   },
-   "res": "a"
-  },
-  {
-   "id": "n18",
-   "sport": "hockey",
-   "liga": "NHL",
-   "zeit": "2026-11-15T00:00:00Z",
-   "h": "Boston Bruins",
-   "a": "Minnesota Wild",
-   "p": {
-    "h": 48.9,
-    "a": 51.1
-   },
-   "res": "a"
-  },
-  {
-   "id": "n19",
-   "sport": "hockey",
-   "liga": "NHL",
-   "zeit": "2026-11-15T00:00:00Z",
-   "h": "Washington Capitals",
-   "a": "New Jersey Devils",
-   "p": {
-    "h": 48.2,
-    "a": 51.8
-   },
-   "res": "a"
-  },
-  {
-   "id": "n20",
-   "sport": "hockey",
-   "liga": "NHL",
-   "zeit": "2026-11-15T00:00:00Z",
-   "h": "Pittsburgh Penguins",
-   "a": "Ottawa Senators",
-   "p": {
-    "h": 45.5,
-    "a": 54.5
-   },
-   "res": "a"
-  },
-  {
-   "id": "n21",
-   "sport": "hockey",
-   "liga": "NHL",
-   "zeit": "2026-11-15T00:00:00Z",
-   "h": "St. Louis Blues",
-   "a": "Florida Panthers",
-   "p": {
-    "h": 48.9,
-    "a": 51.1
-   },
-   "res": "a"
-  },
-  {
-   "id": "n22",
-   "sport": "hockey",
-   "liga": "NHL",
-   "zeit": "2026-11-15T00:00:00Z",
-   "h": "Columbus Blue Jackets",
-   "a": "Philadelphia Flyers",
-   "p": {
-    "h": 55.4,
-    "a": 44.6
-   },
-   "res": "a"
   },
   {
    "id": "o0248ebbc1e",
@@ -1833,6 +1729,110 @@
    "p": {
     "h": 40.7,
     "a": 59.3
+   },
+   "res": "a"
+  },
+  {
+   "id": "n15",
+   "sport": "hockey",
+   "liga": "NHL",
+   "zeit": "2026-11-15T00:00:00Z",
+   "h": "Montreal Canadiens",
+   "a": "Colorado Avalanche",
+   "p": {
+    "h": 52.9,
+    "a": 47.1
+   },
+   "res": "a"
+  },
+  {
+   "id": "n16",
+   "sport": "hockey",
+   "liga": "NHL",
+   "zeit": "2026-11-15T00:00:00Z",
+   "h": "Toronto Maple Leafs",
+   "a": "Edmonton Oilers",
+   "p": {
+    "h": 42.3,
+    "a": 57.7
+   },
+   "res": "a"
+  },
+  {
+   "id": "n17",
+   "sport": "hockey",
+   "liga": "NHL",
+   "zeit": "2026-11-15T00:00:00Z",
+   "h": "Tampa Bay Lightning",
+   "a": "Detroit Red Wings",
+   "p": {
+    "h": 65.9,
+    "a": 34.1
+   },
+   "res": "a"
+  },
+  {
+   "id": "n18",
+   "sport": "hockey",
+   "liga": "NHL",
+   "zeit": "2026-11-15T00:00:00Z",
+   "h": "Boston Bruins",
+   "a": "Minnesota Wild",
+   "p": {
+    "h": 48.9,
+    "a": 51.1
+   },
+   "res": "a"
+  },
+  {
+   "id": "n19",
+   "sport": "hockey",
+   "liga": "NHL",
+   "zeit": "2026-11-15T00:00:00Z",
+   "h": "Washington Capitals",
+   "a": "New Jersey Devils",
+   "p": {
+    "h": 48.2,
+    "a": 51.8
+   },
+   "res": "a"
+  },
+  {
+   "id": "n20",
+   "sport": "hockey",
+   "liga": "NHL",
+   "zeit": "2026-11-15T00:00:00Z",
+   "h": "Pittsburgh Penguins",
+   "a": "Ottawa Senators",
+   "p": {
+    "h": 45.5,
+    "a": 54.5
+   },
+   "res": "a"
+  },
+  {
+   "id": "n21",
+   "sport": "hockey",
+   "liga": "NHL",
+   "zeit": "2026-11-15T00:00:00Z",
+   "h": "St. Louis Blues",
+   "a": "Florida Panthers",
+   "p": {
+    "h": 48.9,
+    "a": 51.1
+   },
+   "res": "a"
+  },
+  {
+   "id": "n22",
+   "sport": "hockey",
+   "liga": "NHL",
+   "zeit": "2026-11-15T00:00:00Z",
+   "h": "Columbus Blue Jackets",
+   "a": "Philadelphia Flyers",
+   "p": {
+    "h": 55.4,
+    "a": 44.6
    },
    "res": "a"
   }

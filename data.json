@@ -1,5 +1,5 @@
 {
- "STAND": "2026-11-23T13:59:00+01:00",
+ "STAND": "2026-11-23T15:27:00+01:00",
  "SPIELE": [
   {
    "id": "b1",
@@ -486,19 +486,6 @@
     "u": 23.8,
     "a": 27.9
    }
-  },
-  {
-   "id": "oc81851847b",
-   "sport": "tennis",
-   "liga": "ATP Finals",
-   "zeit": "2026-11-16T13:00:00Z",
-   "h": "Carlos Alcaraz",
-   "a": "Frances Tiafoe",
-   "p": {
-    "h": 86.8,
-    "a": 13.2
-   },
-   "res": "h"
   },
   {
    "id": "o7ac3bf1380",
@@ -1982,6 +1969,19 @@
    "p": {
     "h": 61.3,
     "a": 38.7
+   },
+   "res": "h"
+  },
+  {
+   "id": "oc81851847b",
+   "sport": "tennis",
+   "liga": "ATP Finals",
+   "zeit": "2026-11-16T13:00:00Z",
+   "h": "Carlos Alcaraz",
+   "a": "Frances Tiafoe",
+   "p": {
+    "h": 86.8,
+    "a": 13.2
    },
    "res": "h"
   }

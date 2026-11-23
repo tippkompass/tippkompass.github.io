@@ -1,5 +1,5 @@
 {
- "STAND": "2026-11-23T18:52:00+01:00",
+ "STAND": "2026-11-23T20:55:00+01:00",
  "SPIELE": [
   {
    "id": "b1",
@@ -486,19 +486,6 @@
     "u": 23.8,
     "a": 27.9
    }
-  },
-  {
-   "id": "o7ac3bf1380",
-   "sport": "tennis",
-   "liga": "ATP Finals",
-   "zeit": "2026-11-16T19:30:00Z",
-   "h": "Daniil Medvedev",
-   "a": "Flavio Cobolli",
-   "p": {
-    "h": 75.8,
-    "a": 24.2
-   },
-   "res": "h"
   },
   {
    "id": "oa7c87fac9e",
@@ -1982,6 +1969,19 @@
    "p": {
     "h": 86.8,
     "a": 13.2
+   },
+   "res": "h"
+  },
+  {
+   "id": "o7ac3bf1380",
+   "sport": "tennis",
+   "liga": "ATP Finals",
+   "zeit": "2026-11-16T19:30:00Z",
+   "h": "Daniil Medvedev",
+   "a": "Flavio Cobolli",
+   "p": {
+    "h": 75.8,
+    "a": 24.2
    },
    "res": "h"
   }

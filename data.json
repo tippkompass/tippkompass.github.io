@@ -1,5 +1,5 @@
 {
- "STAND": "2026-11-24T13:59:00+01:00",
+ "STAND": "2026-11-24T15:21:00+01:00",
  "SPIELE": [
   {
    "id": "b1",
@@ -513,19 +513,6 @@
     "u": 18.2,
     "a": 14.1
    }
-  },
-  {
-   "id": "ob347b8bd2e",
-   "sport": "tennis",
-   "liga": "ATP Finals",
-   "zeit": "2026-11-17T13:00:00Z",
-   "h": "Arthur Fils",
-   "a": "Rafael Jodar",
-   "p": {
-    "h": 49.7,
-    "a": 50.3
-   },
-   "res": "h"
   },
   {
    "id": "of0a6612a0e",
@@ -1990,6 +1977,19 @@
    "p": {
     "h": 75.8,
     "a": 24.2
+   },
+   "res": "h"
+  },
+  {
+   "id": "ob347b8bd2e",
+   "sport": "tennis",
+   "liga": "ATP Finals",
+   "zeit": "2026-11-17T13:00:00Z",
+   "h": "Arthur Fils",
+   "a": "Rafael Jodar",
+   "p": {
+    "h": 49.7,
+    "a": 50.3
    },
    "res": "h"
   }

@@ -1,5 +1,5 @@
 {
- "STAND": "2026-11-24T20:55:00+01:00",
+ "STAND": "2026-11-24T21:45:00+01:00",
  "SPIELE": [
   {
    "id": "b1",
@@ -1000,24 +1000,9 @@
  ],
  "TOPS": [
   {
-   "id": "c8",
-   "wahl": "h",
-   "text": "Real gewann zuletzt in Athen 3:2, PSV verlor in der Champions League zuhause gegen Brügge."
-  },
-  {
    "id": "c10",
    "wahl": "a",
    "text": "Barcelona ist in Sabah haushoher Favorit. Nur: Bei so klaren Spielen ist die Quote meist sehr tief."
-  },
-  {
-   "id": "c6",
-   "wahl": "h",
-   "text": "City gewann in der Champions League 3:2 in Leipzig, verlor aber in der Liga 1:3 in Nottingham. Favorit, aber kein Selbstläufer."
-  },
-  {
-   "id": "c9",
-   "wahl": "a",
-   "text": "Betis ist in Bratislava klarer Favorit. Slovan gewinnt laut Daten nur etwa jedes zehnte solche Spiel."
   },
   {
    "id": "o3b025a029f",
@@ -1025,9 +1010,24 @@
    "text": "Bayern München hat 1 der letzten 1 Spiele gewonnen, Hamburger SV nur 1 von 2. Ich setze trotzdem auf den Auswärtssieg."
   },
   {
-   "id": "c4",
+   "id": "ob1af6789fe",
    "wahl": "h",
-   "text": "Como 1907 hat 1 der letzten 1 Spiele gewonnen, AEK Athen nur 0 von 1. Dazu der Heimvorteil."
+   "text": "Atlético Madrid ist laut den Wettanbietern klarer Favorit, Viking FK nur 1 von 1. Dazu der Heimvorteil."
+  },
+  {
+   "id": "o14007bc060",
+   "wahl": "h",
+   "text": "Paris SG ist laut den Wettanbietern klarer Favorit. Dazu der Heimvorteil."
+  },
+  {
+   "id": "o0bc17a3c7d",
+   "wahl": "h",
+   "text": "Leeds United hat 2 der letzten 2 Spiele gewonnen, Coventry City nur 1 von 2. Dazu der Heimvorteil."
+  },
+  {
+   "id": "o365e1a0090",
+   "wahl": "h",
+   "text": "FSV Mainz hat 0 der letzten 2 Spiele gewonnen, Union Berlin nur 0 von 2. Dazu der Heimvorteil."
   }
  ],
  "RESULTATE": [

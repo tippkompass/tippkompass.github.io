@@ -1,5 +1,5 @@
 {
- "STAND": "2026-11-25T20:48:00+01:00",
+ "STAND": "2026-11-25T21:47:00+01:00",
  "SPIELE": [
   {
    "id": "b1",
@@ -1079,16 +1079,6 @@
    "text": "Bayern München hat 1 der letzten 1 Spiele gewonnen, Hamburger SV nur 1 von 2. Ich setze trotzdem auf den Auswärtssieg."
   },
   {
-   "id": "ob1af6789fe",
-   "wahl": "h",
-   "text": "Atlético Madrid ist laut den Wettanbietern klarer Favorit, Viking FK nur 1 von 1. Dazu der Heimvorteil."
-  },
-  {
-   "id": "o14007bc060",
-   "wahl": "h",
-   "text": "Paris SG ist laut den Wettanbietern klarer Favorit. Dazu der Heimvorteil."
-  },
-  {
    "id": "o0bc17a3c7d",
    "wahl": "h",
    "text": "Leeds United hat 2 der letzten 2 Spiele gewonnen, Coventry City nur 1 von 2. Dazu der Heimvorteil."
@@ -1102,6 +1092,16 @@
    "id": "o4535d59d66",
    "wahl": "h",
    "text": "Bayern München hat 1 der letzten 2 Spiele gewonnen, SC Paderborn nur 0 von 2. Dazu der Heimvorteil."
+  },
+  {
+   "id": "oa7ef7acc02",
+   "wahl": "h",
+   "text": "Bayer Leverkusen hat 2 der letzten 2 Spiele gewonnen, Gladbach nur 0 von 2. Dazu der Heimvorteil."
+  },
+  {
+   "id": "oe9c2b74eca",
+   "wahl": "h",
+   "text": "Brighton hat 1 der letzten 2 Spiele gewonnen, Newcastle nur 0 von 2. Dazu der Heimvorteil."
   }
  ],
  "RESULTATE": [

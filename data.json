@@ -1,5 +1,5 @@
 {
- "STAND": "2026-11-25T12:26:00+01:00",
+ "STAND": "2026-11-25T15:13:00+01:00",
  "SPIELE": [
   {
    "id": "b1",
@@ -522,19 +522,6 @@
     "u": 19.6,
     "a": 16.2
    }
-  },
-  {
-   "id": "oa3e6410598",
-   "sport": "tennis",
-   "liga": "ATP Finals",
-   "zeit": "2026-11-18T13:00:00Z",
-   "h": "Carlos Alcaraz",
-   "a": "Daniil Medvedev",
-   "p": {
-    "h": 77.4,
-    "a": 22.6
-   },
-   "res": "h"
   },
   {
    "id": "o5f11f79253",
@@ -2153,6 +2140,19 @@
    "p": {
     "h": 64.5,
     "a": 35.5
+   },
+   "res": "h"
+  },
+  {
+   "id": "oa3e6410598",
+   "sport": "tennis",
+   "liga": "ATP Finals",
+   "zeit": "2026-11-18T13:00:00Z",
+   "h": "Carlos Alcaraz",
+   "a": "Daniil Medvedev",
+   "p": {
+    "h": 77.4,
+    "a": 22.6
    },
    "res": "h"
   }

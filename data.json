@@ -1,5 +1,5 @@
 {
- "STAND": "2026-11-25T16:30:00+01:00",
+ "STAND": "2026-11-25T18:46:00+01:00",
  "SPIELE": [
   {
    "id": "b1",
@@ -1085,11 +1085,6 @@
  ],
  "TOPS": [
   {
-   "id": "c10",
-   "wahl": "a",
-   "text": "Barcelona ist in Sabah haushoher Favorit. Nur: Bei so klaren Spielen ist die Quote meist sehr tief."
-  },
-  {
    "id": "o3b025a029f",
    "wahl": "a",
    "text": "Bayern München hat 1 der letzten 1 Spiele gewonnen, Hamburger SV nur 1 von 2. Ich setze trotzdem auf den Auswärtssieg."
@@ -1113,6 +1108,11 @@
    "id": "o365e1a0090",
    "wahl": "h",
    "text": "FSV Mainz hat 0 der letzten 2 Spiele gewonnen, Union Berlin nur 0 von 2. Dazu der Heimvorteil."
+  },
+  {
+   "id": "o4535d59d66",
+   "wahl": "h",
+   "text": "Bayern München hat 1 der letzten 2 Spiele gewonnen, SC Paderborn nur 0 von 2. Dazu der Heimvorteil."
   }
  ],
  "RESULTATE": [

@@ -1,5 +1,5 @@
 {
- "STAND": "2026-11-26T17:58:00+01:00",
+ "STAND": "2026-11-26T20:55:00+01:00",
  "SPIELE": [
   {
    "id": "b1",
@@ -538,19 +538,6 @@
     "u": 27.9,
     "a": 33.7
    }
-  },
-  {
-   "id": "o66cc3b98e9",
-   "sport": "tennis",
-   "liga": "ATP Finals",
-   "zeit": "2026-11-19T19:30:00Z",
-   "h": "Alexander Zverev",
-   "a": "Arthur Fils",
-   "p": {
-    "h": 71.1,
-    "a": 28.9
-   },
-   "res": "h"
   },
   {
    "id": "oab87184803",
@@ -2251,6 +2238,19 @@
    "p": {
     "h": 73.2,
     "a": 26.8
+   },
+   "res": "h"
+  },
+  {
+   "id": "o66cc3b98e9",
+   "sport": "tennis",
+   "liga": "ATP Finals",
+   "zeit": "2026-11-19T19:30:00Z",
+   "h": "Alexander Zverev",
+   "a": "Arthur Fils",
+   "p": {
+    "h": 71.1,
+    "a": 28.9
    },
    "res": "h"
   }

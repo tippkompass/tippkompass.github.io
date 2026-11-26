@@ -1,5 +1,5 @@
 {
- "STAND": "2026-11-26T12:55:00+01:00",
+ "STAND": "2026-11-26T14:04:00+01:00",
  "SPIELE": [
   {
    "id": "b1",
@@ -538,19 +538,6 @@
     "u": 27.7,
     "a": 34.1
    }
-  },
-  {
-   "id": "o91d621e106",
-   "sport": "tennis",
-   "liga": "ATP Finals",
-   "zeit": "2026-11-19T13:00:00Z",
-   "h": "Ben Shelton",
-   "a": "Rafael Jodar",
-   "p": {
-    "h": 73.2,
-    "a": 26.8
-   },
-   "res": "h"
   },
   {
    "id": "o66cc3b98e9",
@@ -2253,6 +2240,19 @@
     "a": 56.1
    },
    "res": "a"
+  },
+  {
+   "id": "o91d621e106",
+   "sport": "tennis",
+   "liga": "ATP Finals",
+   "zeit": "2026-11-19T13:00:00Z",
+   "h": "Ben Shelton",
+   "a": "Rafael Jodar",
+   "p": {
+    "h": 73.2,
+    "a": 26.8
+   },
+   "res": "h"
   }
  ]
 }

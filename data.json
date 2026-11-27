@@ -1,20 +1,6 @@
 {
- "STAND": "2026-11-27T17:34:00+01:00",
+ "STAND": "2026-11-27T20:51:00+01:00",
  "SPIELE": [
-  {
-   "id": "b1",
-   "sport": "fussball",
-   "liga": "Bundesliga",
-   "zeit": "2026-11-20T19:30:00Z",
-   "h": "Bayern München",
-   "a": "1. FC Köln",
-   "p": {
-    "h": 87.9,
-    "u": 7.7,
-    "a": 4.4
-   },
-   "res": "u"
-  },
   {
    "id": "b2",
    "sport": "fussball",
@@ -577,19 +563,6 @@
     "u": 14.6,
     "a": 75.1
    }
-  },
-  {
-   "id": "o1acdb2047d",
-   "sport": "tennis",
-   "liga": "ATP Finals",
-   "zeit": "2026-11-20T19:30:00Z",
-   "h": "Daniil Medvedev",
-   "a": "Frances Tiafoe",
-   "p": {
-    "h": 68.4,
-    "a": 31.6
-   },
-   "res": "h"
   },
   {
    "id": "o81c3faeaad",
@@ -2251,6 +2224,33 @@
    "p": {
     "h": 79.5,
     "a": 20.5
+   },
+   "res": "h"
+  },
+  {
+   "id": "b1",
+   "sport": "fussball",
+   "liga": "Bundesliga",
+   "zeit": "2026-11-20T19:30:00Z",
+   "h": "Bayern München",
+   "a": "1. FC Köln",
+   "p": {
+    "h": 87.9,
+    "u": 7.7,
+    "a": 4.4
+   },
+   "res": "u"
+  },
+  {
+   "id": "o1acdb2047d",
+   "sport": "tennis",
+   "liga": "ATP Finals",
+   "zeit": "2026-11-20T19:30:00Z",
+   "h": "Daniil Medvedev",
+   "a": "Frances Tiafoe",
+   "p": {
+    "h": 68.4,
+    "a": 31.6
    },
    "res": "h"
   }

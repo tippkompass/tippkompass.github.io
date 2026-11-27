@@ -1,5 +1,5 @@
 {
- "STAND": "2026-11-27T12:49:00+01:00",
+ "STAND": "2026-11-27T15:20:00+01:00",
  "SPIELE": [
   {
    "id": "b1",
@@ -577,19 +577,6 @@
     "u": 14.4,
     "a": 75.5
    }
-  },
-  {
-   "id": "o1cd2514340",
-   "sport": "tennis",
-   "liga": "ATP Finals",
-   "zeit": "2026-11-20T13:00:00Z",
-   "h": "Carlos Alcaraz",
-   "a": "Flavio Cobolli",
-   "p": {
-    "h": 79.5,
-    "a": 20.5
-   },
-   "res": "h"
   },
   {
    "id": "o1acdb2047d",
@@ -2251,6 +2238,19 @@
    "p": {
     "h": 71.1,
     "a": 28.9
+   },
+   "res": "h"
+  },
+  {
+   "id": "o1cd2514340",
+   "sport": "tennis",
+   "liga": "ATP Finals",
+   "zeit": "2026-11-20T13:00:00Z",
+   "h": "Carlos Alcaraz",
+   "a": "Flavio Cobolli",
+   "p": {
+    "h": 79.5,
+    "a": 20.5
    },
    "res": "h"
   }
